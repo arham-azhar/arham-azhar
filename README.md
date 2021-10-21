@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arham-azhar
 - 👀 I’m interested in New Task.
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on New Idea
+- 🌱 I’m currently learning Everything.
+- 💞️ I’m looking to collaborate on New Idea's.
 - 📫 How to reach me arhamazhar122@gmail.com
 
 <!---
